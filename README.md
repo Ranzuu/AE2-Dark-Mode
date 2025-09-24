@@ -1,5 +1,5 @@
 # AE2-Dark-Mode
-The backported version of AE2 Dark Mode created by Ridanisaurus into minecraft 1.7.10, made specially for GTNH. 
+This pack includes dark mode blocks for Ae2 and additions. Based on AE2 Dark Mode created by Ridanisaurus. Made specially for [GTNH](https://www.gtnewhorizons.com/).
 
 ### The pack only inludes darker blocks, not gui!
 
