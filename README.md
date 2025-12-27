@@ -5,6 +5,10 @@ This pack includes dark mode blocks for Ae2 and additions. Based on AE2 Dark Mod
 
 <img width="2177" height="1377" alt="PicDarkMode" src="https://github.com/user-attachments/assets/1c957114-8559-4550-8f5e-01f03a29c9f5" />
 
+### Supported GTNH Addon mods
+- ScienceNoLeisure
+- and other if you want!
+
 ### Contribution:
 AE2 Dark Mode by Ridanisaurus:
 > [CurseForge](https://www.curseforge.com/minecraft/texture-packs/ae2-dark-mode)
