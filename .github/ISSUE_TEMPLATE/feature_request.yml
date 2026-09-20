@@ -1,0 +1,33 @@
+name: Feature request
+description: Suggest an idea for this project
+title: "[Feature]: "
+labels: ["Feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea? Tell us what you would like to see.
+        Note: this pack only changes blocks, not GUIs.
+
+  - type: textarea
+    id: request
+    attributes:
+      label: What would you like to see?
+      description: Describe the feature, or the mod/block you want a dark version of.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why would it be useful?
+    validations:
+      required: false
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference images or links
+      description: Drag and drop images here, or paste links (a link to the mod is helpful for new addons).
+    validations:
+      required: false
