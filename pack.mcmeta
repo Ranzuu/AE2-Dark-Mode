@@ -3,6 +3,9 @@
     "pack_format": 1,
     "description": "§8AE2 Dark Mode Texture Pack (blocks) §aby Ranzu"
   },
+  "myctmlib": {
+    "enableAe2JsonModels": true
+  },
   "gtnh_resource_pack_updater": {
     "schema": 1,
     "pack_name": "AE2-Dark-Mode",
