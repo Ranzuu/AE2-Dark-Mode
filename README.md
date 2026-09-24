@@ -1,5 +1,7 @@
 # AE2-Dark-Mode
-This pack includes dark mode blocks for Ae2 and additions. Based on AE2 Dark Mode created by Ridanisaurus. Made specially for [GTNH](https://www.gtnewhorizons.com/).
+This pack includes dark mode blocks for Ae2 and additions. Based on AE2 Dark Mode created by Ridanisaurus. 
+<br>
+Made specially for [GTNH](https://www.gtnewhorizons.com) and to be placed above the [Modernity](https://github.com/ModernityGTNH/Modernity-GTNH). Supports 3D Models along with [MyCTMLib](https://github.com/ABKQPO/MyCTMLib).
 
 ### The pack only inludes darker blocks, not gui!
 
